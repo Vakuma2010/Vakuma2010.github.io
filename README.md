@@ -1,2 +1,2 @@
-# Vakuma2010.github.io
+# CV
 Сайт визитка HTML, CSS
